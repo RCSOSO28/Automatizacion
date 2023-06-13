@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="PruebaTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-06-13T22:24:47" hostname="CHBOG" time="5.657">
+  <properties/>
+  <testcase name="hacer_otra_prueba()" classname="PruebaTest" time="5.657"/>
+  <system-out><![CDATA[PaAses y capitales de AmArica - Saber es prActico
+]]></system-out>
+  <system-err><![CDATA[SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+1686695088455	geckodriver	INFO	Listening on 127.0.0.1:56211
+1686695089722	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64694" "--remote ... llow-origins" "http://localhost:64694/" "-no-remote" "-profile" "C:\\Users\\HDI\\AppData\\Local\\Temp\\rust_mozprofile3OIvon"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1686695090029	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1686695090036	Marionette	INFO	Listening on port 65139
+Read port: 65139
+WebDriver BiDi listening on ws://127.0.0.1:64694
+1686695090170	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:64694/devtools/browser/e5ecb035-b84e-4feb-a561-5631c550e176
+jun 13, 2023 5:24:51 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFORMACIÓN: Detected upstream dialect: W3C
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.google.com."
+]]></system-err>
+</testsuite>
